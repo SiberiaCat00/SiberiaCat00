@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SiberiaCat00
-- 👀 I’m interested in science computing
-- 🌱 I’m currently learning asm and python
-- 💞️ I’m looking to collaborate on science computing
+- 👀 I’m interested in Mathematics
+- 🌱 I’m currently learning c++ and python
+- 💞️ I’m looking to collaborate on Mathematics
 - 📫 Reach me with QQ 3488879572
 
 <!---
